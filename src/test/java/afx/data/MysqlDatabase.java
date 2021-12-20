@@ -3,9 +3,9 @@ package afx.data;
 // import java.sql.Connection;
 // import java.sql.DriverManager;
 
-// import com.afx.data.BaseDatabase;
+// import com.afx.data.DatabaseImpl;
 
-// public class MysqlDatabase extends BaseDatabase {
+// public class MysqlDatabase extends DatabaseImpl {
 
 //     private String url;
 //     private String user;

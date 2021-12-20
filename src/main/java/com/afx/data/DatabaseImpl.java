@@ -17,7 +17,7 @@ import com.afx.data.factory.ObjectFactory;
 import com.afx.data.type.TypeHandler;
 import com.afx.data.type.TypeHandlerRegistry;
 
-public abstract class BaseDatabase implements Database{
+public abstract class DatabaseImpl implements Database{
     
     private Connection connection = null;
     private Boolean is_tran = false;
