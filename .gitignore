@@ -3,5 +3,9 @@
 ################################################################################
 
 .git
+.settings
+.vscode
+.classpath
+.factorypath
+.project
 target
-.*
