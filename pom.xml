@@ -11,7 +11,7 @@
 
   <name>afx.data</name>
   <description>database</description>
-  <url>https://github.com/jerrylai</url>
+  <url>https://github.com/jerrylai/afx.data.java</url>
   
   <properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
